@@ -108,3 +108,91 @@ Websites:
 GameOBS.co
 
 Crackleho.com
+
+
+
+### W7
+#### Activity1
+We could use different color to indicate the states of the npcs.
+
+We could dedect whether npc or the player collide with obstacles and change the direction atmomaticlly.
+
+#### Activity2
+Attendence: Sahasra Vytla, Mira Liu, Beiduo Jin, Luis Chavarin
+
+#### Activity3
+
+[Final project breakdown](https://docs.google.com/drawings/d/1UIIzl_sxNkInFeA4OzxTQlEIDgO7bRfIKndRX43xo8Q/edit)
+
+#### Activity4
+I will do the audio and game controller code part
+
+#### Activity5
+
+I created the script for the "player" character and completed the relevant part of the player script. 
+(https://github.com/svytla07/GDIM32-Final/commit/1c8e49fe8cc9f03393051377fcce0a6a570474dd)
+
+
+
+### W7
+#### Activity1
+We could use different color to indicate the states of the npcs.
+
+We could dedect whether npc or the player collide with obstacles and change the direction atmomaticlly.
+
+#### Activity2
+Attendence: Sahasra Vytla, Mira Liu, Beiduo Jin, Luis Chavarin
+
+#### Activity3
+
+[Final project breakdown](https://docs.google.com/drawings/d/1UIIzl_sxNkInFeA4OzxTQlEIDgO7bRfIKndRX43xo8Q/edit)
+
+#### Activity4
+I will do the audio and game controller code part
+
+#### Activity5
+
+I created the script for the "player" character and completed the relevant part of the player script. 
+(https://github.com/svytla07/GDIM32-Final/commit/1c8e49fe8cc9f03393051377fcce0a6a570474dd)
+
+
+### W7
+#### Activity1
+We could use different color to indicate the states of the npcs.
+
+We could dedect whether npc or the player collide with obstacles and change the direction atmomaticlly.
+
+#### Activity2
+Attendence: Sahasra Vytla, Mira Liu, Beiduo Jin, Luis Chavarin
+
+#### Activity3
+
+[Final project breakdown](https://docs.google.com/drawings/d/1UIIzl_sxNkInFeA4OzxTQlEIDgO7bRfIKndRX43xo8Q/edit)
+
+#### Activity4
+I will do the audio and game controller code part
+
+#### Activity5
+
+I created the script for the "player" character and completed the relevant part of the player script. 
+(https://github.com/svytla07/GDIM32-Final/commit/1c8e49fe8cc9f03393051377fcce0a6a570474dd)
+
+
+### W8
+#### Activity1
+We can adjust the position of the main camera when designing the game.
+
+#### Activity2
+Attendence: Sahasra Vytla, Mira Liu, Beiduo Jin, Luis Chavarin
+
+#### Activity3
+
+The game has main scenes and NPCs, but it's not yet clear what the goal of the game is. Some aspects are not well-defined.
+
+#### Activity4
+I will do the game controller part to let the game runproperly.
+
+#### Activity5
+
+I created the script for the "player" character and completed the relevant part of the player script. 
+(https://github.com/svytla07/GDIM32-Final/commit/1c8e49fe8cc9f03393051377fcce0a6a570474dd)
