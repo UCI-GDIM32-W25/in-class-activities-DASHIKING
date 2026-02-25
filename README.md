@@ -193,6 +193,6 @@ The game has main scenes and NPCs, but it's not yet clear what the goal of the g
 I will do the game controller part to let the game runproperly.
 
 #### Activity5
+I have completed the code for the game controller part.
 
-I created the script for the "player" character and completed the relevant part of the player script. 
-(https://github.com/svytla07/GDIM32-Final/commit/1c8e49fe8cc9f03393051377fcce0a6a570474dd)
+(https://github.com/svytla07/GDIM32-Final/commit/5957dfaab40c37c6ce56ac9aff7fe678755296ae)
