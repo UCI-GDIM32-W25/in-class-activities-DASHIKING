@@ -212,6 +212,6 @@ The camera sometimes doesn't follow the player and when the player click on the 
 I will do the question and order making part.
 
 #### Activity5
-I have completed the code for the game controller part.
+I created a new start menu for the game, so that players can better understand the objective of the game.
 
-(https://github.com/svytla07/GDIM32-Final/commit/5957dfaab40c37c6ce56ac9aff7fe678755296ae)
+(https://github.com/svytla07/GDIM32-Final/commit/90b09c1beea3655c366b359b2e8132c1a0d69d89)
