@@ -196,3 +196,22 @@ I will do the game controller part to let the game runproperly.
 I have completed the code for the game controller part.
 
 (https://github.com/svytla07/GDIM32-Final/commit/5957dfaab40c37c6ce56ac9aff7fe678755296ae)
+
+
+### W9
+#### Activity1
+The code should be scale and every person should focus on one specific thing to avoid merge conflict.
+
+#### Activity2
+Attendence: Sahasra Vytla, Mira Liu, Beiduo Jin, Luis Chavarin
+
+#### Activity3
+The camera sometimes doesn't follow the player and when the player click on the npc multiple times it may generate many npc wrongly.
+
+#### Activity4
+I will do the question and order making part.
+
+#### Activity5
+I have completed the code for the game controller part.
+
+(https://github.com/svytla07/GDIM32-Final/commit/5957dfaab40c37c6ce56ac9aff7fe678755296ae)
