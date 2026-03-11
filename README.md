@@ -215,3 +215,21 @@ I will do the question and order making part.
 I created a new start menu for the game, so that players can better understand the objective of the game.
 
 (https://github.com/svytla07/GDIM32-Final/commit/90b09c1beea3655c366b359b2e8132c1a0d69d89)
+
+
+### W10
+#### Activity1
+Attendence: Sahasra Vytla, Mira Liu, Beiduo Jin, Luis Chavarin
+
+#### Activity2
+The camera tracking is not working properly. Now, when clicking on the NPC, there is no dialogue.
+
+#### Activity3
+Currently, we don't have a dialogue interface, nor do we have bowls to hold the food. The player cannot turn while moving. The other parts are basically without any problems.
+
+#### Activity4
+
+I have modified the part related to player movement. Now the player can turn around.
+
+(https://github.com/svytla07/GDIM32-Final/commit/e3b2960df768d13202395f2cd6f3179de876d419)
+
